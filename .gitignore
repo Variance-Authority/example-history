@@ -1,0 +1,6 @@
+node_modules/
+out/
+.variance/
+variance-history.db
+variance-history.db-shm
+variance-history.db-wal
